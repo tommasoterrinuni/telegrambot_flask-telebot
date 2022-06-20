@@ -9,7 +9,7 @@ from flask_sqlalchemy import SQLAlchemy
 load_dotenv()
 
 
-token = os.environ['5122268432:AAG46DC5xc8Qjw87h1hPnjyDYTJlwbIocnE']
+token = os.environ['']
 WEBHOOK_URL_BASE = os.environ['https://provetommy.eu.pythonanywhere.com/']
 WEBHOOK_URL_PATH = token
 
